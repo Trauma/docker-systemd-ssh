@@ -1,4 +1,4 @@
-FROM solita/ubuntu-systemd:16.04
+FROM tromatik/debian-systemd:latest
 
 EXPOSE 22
 
